@@ -30,3 +30,10 @@ Summarize your findings, draw actionable insights, and propose recommendations f
 Married women age group 26-35yrs from UP,Maharashtra and Karnataka working in IT,Healthcare and Aviation are more likely to buy products from food Clothing and Electronics category 
 
  10. conclusion:-- Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
+
+ 11. Absolutely, here are some concise highlights based on your project for your resume:
+
+- Proficient in data cleaning and transformation using Python (Pandas, NumPy) for a Diwali Sales Analysis project, enhancing data integrity by removing null values and optimizing column data types.
+- Demonstrated strong exploratory data analysis skills leveraging Seaborn and Matplotlib to uncover key insights: highlighted that female customers outspent males, particularly within the 26-35 age group, indicating a targeted demographic for sales strategies.
+- Effectively segmented and analyzed sales data across demographics (age groups, gender), geographic regions (states), occupational sectors, and marital statuses, identifying key consumer trends and preferences for product categories (Food, Clothing, Electronics).
+- Synthesized findings into actionable conclusions, revealing that married women aged 26-35 in specific regions and occupations (UP, Maharashtra, Karnataka, IT, Healthcare, Aviation) exhibit a higher likelihood of purchasing products within targeted categories, providing valuable insights for strategic marketing campaigns.
